@@ -1,3 +1,4 @@
 flask
 openai
 qiskit
+qiskit-aer
